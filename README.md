@@ -18,10 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sderaushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sderaushan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/raushan-yaduvanshi-264607277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/raushan-yaduvanshi-264607277" height="30" width="40" /></a>
+<a href="linkedin.com/in/raushan-kumar-264607277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/raushan-yaduvanshi-264607277" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/raushankashu.kashu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/raushankashu.kashu" height="30" width="40" /></a>
 <a href="https://instagram.com/sde_raushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sde_raushan" height="30" width="40" /></a>
-<a href="leetcode.com/u/Raushan_kumar_6299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/raushan_kumar_6299/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Raushan_kumar_6299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/raushan_kumar_6299/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
